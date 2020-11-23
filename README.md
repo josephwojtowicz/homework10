@@ -8,3 +8,4 @@ document is created to show the team.
 
 To run, simply type "node app.js" in command line. 
 
+![](Untitled_ Nov 22, 2020 9_29 PM (1).gif)
