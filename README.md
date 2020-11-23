@@ -7,3 +7,4 @@ including the manager, engineer and intern. After the user builds the team, an H
 document is created to show the team.
 
 To run, simply type "node app.js" in command line. 
+
