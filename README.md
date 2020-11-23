@@ -8,4 +8,4 @@ document is created to show the team.
 
 To run, simply type "node app.js" in command line. 
 
-! [] (homework10.gif)
+![homework](homework10.gif)
